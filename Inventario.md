@@ -3,3 +3,4 @@
 - The Legend of Zelda
 - The Las of Us
 - Super Mario Bros
+- Uncharted 5
